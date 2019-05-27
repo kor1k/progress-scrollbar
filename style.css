@@ -1,0 +1,23 @@
+body {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 3px;
+    background-color: tomato;
+}
+
+.title {
+    text-align: center;
+    margin: 20px 0 20px 0;
+    font-weight: 800;
+}
+
+.content {
+    font-size: 20px;
+}
